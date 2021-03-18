@@ -1,0 +1,12 @@
+.bg{
+    background-image: linear-gradient(orange,white,rgb(26, 192, 26));
+    width:"100%";
+    height:625px;
+}
+.count{
+    padding: 300px 650px;
+    color: blue;
+    width:70px;
+    height:20px;
+    text-align: center;
+}
